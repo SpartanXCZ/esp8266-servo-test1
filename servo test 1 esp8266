@@ -1,0 +1,6 @@
+import machine
+p0 = machine.Pin(0, machine.Pin.OUT)
+pwm = machine.PWM(p0)
+input() = i
+if : =1
+    pwm.freq(200)
